@@ -1,5 +1,7 @@
-freeboard
+freeboard for Switch Database
 ==========
+
+### :warning: Under Development
 
 **free·board** (noun) *\ˈfrē-ˌbȯrd\*
 
@@ -8,12 +10,8 @@ freeboard
 3. a damn-sexy, open source real-time dashboard builder/viewer for IOT and other web mashups.
 
 ### Demo
-http://freeboard.github.io/freeboard
-
-https://freeboard.io
-
-### Screenshots
-![Weather](https://raw.github.com/Freeboard/branding/master/screenshots/freeboard-screenshot-1.jpg)
+https://switchdb.github.io/freeboard
+https://freeboard.switchdatabase.com
 
 ### What is It?
 
@@ -176,6 +174,6 @@ $(function()
 
 ### Copyright 
 
-Copyright © 2013 Jim Heising (https://github.com/jheising)<br/>Copyright © 2013 Bug Labs, Inc. (http://buglabs.net)<br/>Licensed under the **MIT** license.
+Copyright © 2013 Jim Heising (https://github.com/jheising)<br/>Copyright © 2013 Bug Labs, Inc. (http://buglabs.net)<br/>Copyright © 2017 Switch Database (https://www.switchdatabase.com)<br/>Licensed under the **MIT** license.
 
 ---
